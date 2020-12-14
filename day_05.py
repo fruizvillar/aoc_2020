@@ -1,5 +1,3 @@
-import functools
-import re
 from pathlib import Path
 
 INPUTS = Path('inputs')
